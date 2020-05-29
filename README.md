@@ -1,2 +1,2 @@
-# seattle-tour
- Setattle mount rainier CSS and HTML
+# Seattle mount rainier
+ Seattle mount rainier
